@@ -18,7 +18,9 @@ This task focuses on understanding what makes a password secure. It includes gen
 The following Python script was used to generate passwords with customizable strength levels by controlling:
 - Length
 - Character types: Uppercase, Lowercase, Digits, Symbols
+![image](https://github.com/user-attachments/assets/fa8c297e-84db-4a61-96a5-d2c90b474c6b)
 
+![image](https://github.com/user-attachments/assets/4ff78b4c-8141-421b-9f43-91be607b6cd5)
 
 ---
 
@@ -96,6 +98,4 @@ The following Python script was used to generate passwords with customizable str
 - Enable multi-factor authentication (MFA)
 
 ---
-
-## Repository Structure
 
